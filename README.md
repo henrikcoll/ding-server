@@ -1,7 +1,7 @@
 
 # Ding server
 
-A tool to notify you when long running commands are done.
+A tool to send notifications. Primarily made for sending notification when tasks are done or for sending alerts.
 ## Installation
 
 Install ding-server with docker:
